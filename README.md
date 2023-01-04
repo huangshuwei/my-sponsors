@@ -1,2 +1,2 @@
 # my-sponsors
-generating my sponsors images .
+generating my sponsors images ...
