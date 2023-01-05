@@ -12,7 +12,7 @@ export default defineConfig({
       preset: presets.small,
     },
     {
-      title: "Sponsors",
+      title: "Generous Sponsors",
       monthlyDollars: 10,
       preset: {
         avatar: {
